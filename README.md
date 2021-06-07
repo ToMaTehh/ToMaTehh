@@ -2,8 +2,8 @@
 ### Aguante River, de corazón.
 ## Servidores Con Los Que Colaboré
 - Alcher — Roleplay
-- Mysterich Falls — Juego de Rol
 - Colombia — Roleplay
+- Demás servidores que no vierón la luz, cerrados antes de abrir.
 
 ## Mí conocimiento en un comando choto
 ```js
