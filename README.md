@@ -1,13 +1,21 @@
 # Ni sabia q esto andaba pero bue, `holas pibe` 👋
 ### Aguante River, de corazón.
+## Servidores Con Los Que Colaboré
+- Alcher — Roleplay
+- Mysterich Falls — Juego de Rol
+- Colombia — Roleplay
 
+## Mí conocimiento en un comando choto
 ```js
-new string[256];
-new nivel_de_script[50];
-new nivel_de_mapping[23];
-format(string, 256, "ToMaTeh sabe de script un %%s, de mapping un %%s y demás cosas un %0,0000000 porciento.", nivel_de_script, nivel_de_mapping);
-SendClientMessage(playerid, 0xFFFFFFFF, string);
-return 1;
+CMD:cuanto se de script(playerid, params[])
+{
+  new string[256];
+  new script[50];
+  new mapping[23];
+  format(string,256,"ToMaTeh sabe de script un %%s, de mapping un %%s y demás cosas un %0,00 porciento.", script, mapping);
+  SendClientMessage(playerid, 0xFFFFFFFF, string);
+  return 1;
+}
 ```
 
 <!--
