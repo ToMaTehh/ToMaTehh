@@ -1,10 +1,5 @@
 # Ni sabia q esto andaba pero bue, `holas pibe` 👋
 ### Aguante River, de corazón.
-## Servidores Con Los Que Colaboré
-- Alcher — Roleplay
-- Colombia — Roleplay
-- Demás servidores que no vierón la luz, cerrados antes de abrir.
-
 ## Mí conocimiento en un comando choto
 ```js
 CMD:cuanto se de script(playerid, params[])
