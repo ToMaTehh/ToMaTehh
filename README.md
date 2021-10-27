@@ -1,17 +1,5 @@
-# Ni sabia q esto andaba pero bue, `holas pibe` 👋
+# Ni sabia q esto andaba pero bue, `hola` 👋
 ### Aguante River, de corazón.
-## Mí conocimiento en un comando choto
-```js
-CMD:cuanto se de script(playerid, params[])
-{
-  new string[256];
-  new script[50];
-  new mapping[23];
-  format(string,256,"ToMaTeh sabe de script un %%s, de mapping un %%s y demás cosas un %0,00 porciento.", script, mapping);
-  SendClientMessage(playerid, 0xFFFFFFFF, string);
-  return 1;
-}
-```
 
 <!--
 **ToMaTehh/ToMaTehh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
