@@ -1,4 +1,4 @@
-# 👋 | ¡Que tal, soy ToMaTeh! Desarrollador independiente. 
+# 👋 | ¡Que tal, soy ToMaTeh!
 # 📫 | Contacto: `misaelgarah@gmail.com`
 
 
