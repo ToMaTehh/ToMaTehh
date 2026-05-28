@@ -1,5 +1,6 @@
-# ¡Que tal, soy ToMaTeh! Desarrollador independiente. 👋
-## Q
+# 👋 | ¡Que tal, soy ToMaTeh! Desarrollador independiente. 
+# 📫 | Contacto: `misaelgarah@gmail.com`
+
 
 <!--
 **ToMaTehh/ToMaTehh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
