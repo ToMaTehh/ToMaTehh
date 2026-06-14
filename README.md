@@ -1,5 +1,6 @@
 # 👋 | ¡Que tal, soy ToMaTeh!
 # 📫 | Contacto: `misaelgarah@gmail.com`
+# 📟 | Discord: `tomateh.`
 
 
 <!--
