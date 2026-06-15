@@ -2,6 +2,12 @@
 # 📫 | Contacto: `misaelgarah@gmail.com`
 # 📟 | Discord: `tomateh.`
 
+<details>
+<summary>La mejor imagen que vas a ver hoy.</summary>
+<br>
+<img src="https://i.ibb.co/1rdcRxv/image.png" alt="Homero con una bandera del mejor país del mundo.">
+</details>
+
 
 <!--
 **ToMaTehh/ToMaTehh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
