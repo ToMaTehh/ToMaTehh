@@ -3,7 +3,7 @@
 # 📟 | Discord: `tomateh.`
 
 <details>
-<summary>La mejor imagen que vas a ver hoy.</summary>
+<summary>🇦🇷</summary>
 <br>
 <img src="https://i.ibb.co/1rdcRxv/image.png" alt="Homero con una bandera del mejor país del mundo.">
 </details>
